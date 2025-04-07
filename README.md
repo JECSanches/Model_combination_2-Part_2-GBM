@@ -1,4 +1,4 @@
-# Combinação de modelo 2 - Parte 2- (Gradient Boost Machines - GBM)
+# Combinação de modelo 2 - Parte 2- (Gradient Boosting Machines - GBM)
 
 - Compreender as diferenças entre AdaBoost e GBM
 - Identificar parâmetros importantes no GBM
